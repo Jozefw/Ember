@@ -3,7 +3,7 @@
 ## By accepting to read/review this you consent to automatically signing this NonDisclosure Agreement
 
 ### Nondisclosure Agreement
-This Nondisclosure Agreement (the "Agreement") is entered into by and between Jozef Woroniecki ("Disclosing Party") and Bill Sarris and employees of Linqto, located at 100 Pine Street Suite 2700 San Francisco, CA 94111 United States ("Receiving Party") for the purpose of preventing the unauthorized disclosure of Confidential Information as defined below. The parties agree to enter into a confidential relationship with respect to the disclosure of certain proprietary and confidential information ("Confidential Information").
+This Nondisclosure Agreement (the "Agreement") is entered into by and between Jozef Woroniecki ("Disclosing Party") and any party reading, downloading, or forking this repository or code ("Receiving Party") for the purpose of preventing the unauthorized disclosure of Confidential Information as defined below. The parties agree to enter into a confidential relationship with respect to the disclosure of certain proprietary and confidential information ("Confidential Information").
 
 1. Definition of Confidential Information. For purposes of this Agreement, "Confidential Information" shall include all information or material that has or could have commercial value or other utility in the business in which Disclosing Party is engaged. If Confidential Information is in written form, the Disclosing Party shall label or stamp the materials with the word "Confidential" or some similar warning. If Confidential Information is transmitted orally, the Disclosing Party shall promptly provide a writing indicating that such oral communication constituted Confidential Information.
 
